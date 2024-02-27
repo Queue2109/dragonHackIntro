@@ -47,10 +47,12 @@ header {
 
 .team-member div {
     width: 60%;
+    margin-left: 30px;
 }
 
 .team-member h2 {
-    color: #036666
+    color: #036666;
+
 }
 
 #dragon {
